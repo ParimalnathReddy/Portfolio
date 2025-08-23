@@ -26,22 +26,7 @@ src/
 
 ---
 
-## 🧹 Removing Lovable-specific code
-The scaffold included a dev-only **lovable-tagger** plugin. You can safely remove it:
 
-1. **Edit `vite.config.ts`** and remove:
-   ```ts
-   import { componentTagger } from "lovable-tagger";
-
-   mode === "development" && componentTagger(),
-   ```
-
-2. **Uninstall the package**:
-   ```bash
-   npm remove lovable-tagger
-   ```
-
----
 
 ## 🧑‍💻 Local Development
 ```bash
