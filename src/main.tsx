@@ -10,7 +10,7 @@ const basename = import.meta.env.PROD ? "/Portfolio" : "/";
 
 createRoot(document.getElementById("root")!).render(
   <React.StrictMode>
-    <BrowserRouter basename={basename}>
+    <BrowserRouter basename="/Portfolio">
       <App />
     </BrowserRouter>
   </React.StrictMode>
