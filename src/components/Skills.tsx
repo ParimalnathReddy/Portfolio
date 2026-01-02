@@ -182,8 +182,6 @@ const Skills = () => {
             Skills & <span className="primary-gradient bg-clip-text text-transparent">Toolbox</span>
           </h2>
           <p className="text-muted-foreground text-lg max-w-2xl mx-auto">
-            What I actually use to ship analytics + ML work — organized by domain, with evidence instead of fake %
-            ratings.
           </p>
         </div>
 
