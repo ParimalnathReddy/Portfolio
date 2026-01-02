@@ -36,7 +36,7 @@ npm install
 # start dev server
 npm run dev
 ```
-Visit: [http://localhost:8080](http://localhost:8080)
+
 
 ---
 
@@ -111,7 +111,7 @@ Then → GitHub repo → **Settings → Pages** →
 
 Your site will be live at:
 ```
-https://<USERNAME>.github.io/<REPO_NAME>/
+https://parimalnathreddy.github.io/Portfolio/
 ```
 
 ---
